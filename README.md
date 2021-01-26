@@ -1,2 +1,2 @@
 # Correlation
-Correlation heatmap and Pairwise correlation
+Correlation heatmap and Pairwise correlation(Check the ipynb file)
